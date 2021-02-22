@@ -1,0 +1,1 @@
+# covid-19-daignosis-form-CT-2d-scan
